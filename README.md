@@ -39,8 +39,14 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubaid01&show_icons=false&locale=en&layout=compact&theme=dracula" alt="Ubaid01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ubaid01&show_icons=true&locale=en&theme=dracula&icon_color=4FC3F7" alt="Ubaid01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaid01&theme=dracula&text_color=4FC3F7" alt="Ubaid01" /></p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubaid01&show_icons=false&locale=en&layout=compact&theme=dracula" alt="Ubaid01" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ubaid01&show_icons=true&locale=en&theme=dracula&icon_color=4FC3F7" alt="Ubaid01" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaid01&theme=dracula&text_color=4FC3F7" alt="Ubaid01" />
+  </p>
+</div>
