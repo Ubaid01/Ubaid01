@@ -39,14 +39,19 @@
   </a> 
 </p>
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubaid01&show_icons=false&locale=en&layout=compact&theme=dracula" alt="Ubaid01" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ubaid01&show_icons=true&locale=en&theme=dracula&icon_color=4FC3F7" alt="Ubaid01" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaid01&theme=dracula&text_color=4FC3F7" alt="Ubaid01" />
-  </p>
+<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Ubaid01&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ubaid01&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaid01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <!-- </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubaid01&show_icons=true&locale=en&layout=compact&theme=react" alt="Ubaid01" />  -->
+  <!-- <p>
+    <img width = "350" src="https://github-profile-trophy.vercel.app/?username=Ubaid01&theme=dracula" alt="Ubaid01" />
+  </p> -->
 </div>
+<br/>
+
+<br/><br/>
