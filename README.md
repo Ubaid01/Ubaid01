@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=87CEEB&width=435&lines=Aspiring+Developer;Passionate+Learner" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **ActionRPG Game On Unreal Engine**
+- 🔭 I’m currently working on **Algorithm Visualizer for DSA** along with **Time-Series Prediction Project**
 
 - 📫 Contact me via **obaid.majeed2005@gmail.com**
 
