@@ -21,7 +21,7 @@
   <a href="https://www.hackerrank.com/obaid_majeed2005" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="obaid_majeed2005" height="30" width="35" />
   </a>
-  <a href="https://leetcode.com/obaid4601261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="25" style="background-color: #2d2d2d; padding: 3px; border-radius: 50%"/></a>
+  <a href="https://leetcode.com/obaid4601261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="25" style="background-color: #2d2d2d; padding: 3px; border-radius: 50%" /></a>
   <a href="https://codeforces.com/profile/obaid.majeed2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="obaid.majeed2005" height="30" width="25" /></a>
 </p>
 
@@ -54,6 +54,11 @@
     <img width = "350" src="https://github-profile-trophy.vercel.app/?username=Ubaid01&theme=dracula" alt="Ubaid01" />
   </p> -->
 </div>
+
 <br/>
+<h2 align="center">📊 LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/obaid4601261?theme=radical&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="350" height="auto"/>
+</p>
 
 <br/><br/>
