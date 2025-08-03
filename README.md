@@ -6,16 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=87CEEB&center=true&vCenter=true&width=600&lines=Exploring Backend;Problem+Solver+%7C+Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=87CEEB&center=true&vCenter=true&width=600&lines=Exploring+Backend;Problem+Solver+%7C+Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
----
 
 - 🔭 **Currently learning:** Backend development  
 - 🎯 **Next Goal:** Master advanced backend concepts and build meaningful projects.  
 - ⚡ **Fun fact:** I enjoy problem solving and exploring theoretical concepts in depth.  
-
----
 
 <div align="center">
   <h2 align="center"> Technologies & Tools </h2>
@@ -54,10 +51,7 @@
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Ubaid01&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ubaid01&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <!-- <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaid01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
-  </p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubaid01&show_icons=true&locale=en&layout=compact&theme=react" alt="Ubaid01" /> 
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubaid01&show_icons=true&locale=en&layout=compact&theme=react" alt="Ubaid01" /> 
 </div>
 
 <br>
